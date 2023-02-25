@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey There! 👋 
 
-<!--
-**o-gkmn/o-gkmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Ozgur.** I'm developing mobile applications with flutter. I was developed applications using Java and Python. Also i am studying Computer Engineering at the Biruni University
 
-Here are some ideas to get you started:
+### 💻 Tech Stack 
+<img src="https://skillicons.dev/icons?i=dart,flutter,python,java,vscode,git,github,sqlite">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Socials
+<a href="https://www.instagram.com/o_gkmn/"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark"> </a>
+<a href="https://twitter.com/o_gkmn"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark"> </a>
+<a href="https://www.linkedin.com/in/ozgurgokmen"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"> </a>
+<a href="https://www.linkedin.com/in/ozgurgokmen"> <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> </a>
+<a href="https://stackoverflow.com/users/13489994/%c3%96zg%c3%bcr"> <img src="https://www.redditstatic.com/icon.png" width="64" height="64"> </a>
+
+### 👤 Contact
+ozgur.gokmen735@gmail.com
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/o-gkmn/langs?time_range=one_year&include_private=True&group=other&theme=ferns)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/o-gkmn/repos?time_range=one_year&group=other&theme=ferns)](https://githubtrends.io)
