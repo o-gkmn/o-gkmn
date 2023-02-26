@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/o_gkmn/"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark"> </a>
 <a href="https://twitter.com/o_gkmn"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark"> </a>
 <a href="https://www.linkedin.com/in/ozgurgokmen"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"> </a>
-<a href="https://www.linkedin.com/in/ozgurgokmen"> <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> </a>
-<a href="https://stackoverflow.com/users/13489994/%c3%96zg%c3%bcr"> <img src="https://www.redditstatic.com/icon.png" width="64" height="64"> </a>
+<a href="https://stackoverflow.com/users/13489994/%c3%96zg%c3%bcr"> <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> </a>
+<a href="https://www.reddit.com/user/o_gkmn"> <img src="https://www.redditstatic.com/icon.png" width="64" height="64"> </a>
 
 ### 👤 Contact
 ozgur.gokmen735@gmail.com
