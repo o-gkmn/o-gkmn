@@ -1,6 +1,6 @@
 # Hey There! 👋 
 
-**I'm Ozgur.** I'm developing mobile applications with flutter. I was developed applications using Java and Python. Also i am studying Computer Engineering at the Biruni University
+**I'm Ozgur.** I'm developing mobile applications using flutter. I was developed applications using Java and Python. Also i am studying Computer Engineering at the Biruni University
 
 ### 💻 Tech Stack 
 <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,vscode,git,github,sqlite">
