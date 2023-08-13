@@ -3,7 +3,7 @@
 **I'm Ozgur.** I'm developing mobile applications using flutter. I was developed applications using Java and Python. Also i am studying Computer Engineering at the Biruni University
 
 ### 💻 Tech Stack 
-<img src="https://skillicons.dev/icons?i=dart,flutter,python,java,vscode,git,github,sqlite">
+<img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,python,java,postman,vscode,visualstudio,git,github,sqlite">
 
 ### 🌐 Socials
 <a href="https://www.instagram.com/o_gkmn/"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark"> </a>
